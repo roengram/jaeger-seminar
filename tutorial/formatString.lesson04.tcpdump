@@ -1,0 +1,8 @@
+GET /format?helloTo=Bryan HTTP/1.1
+Host: localhost:8081
+User-Agent: Go-http-client/1.1
+Uber-Trace-Id: 3ece4a88118e9abc:5e346e85fffd2fc7:3ece4a88118e9abc:1
+Uberctx-Greeting: Bonjour%21
+Accept-Encoding: gzip
+
+
